@@ -1,6 +1,7 @@
 import React from "react";
 import InterviewerListItem from "./InterviewerListItem";
 import "components/InterviewerList.scss";
+import PropTypes from 'prop-types';
 
 export default function InterviewerList(props) {
   const { interviewers, onChange, value } = props;
@@ -21,4 +22,9 @@ export default function InterviewerList(props) {
   </section>
   );
 }
+
+//makes CHROME DEV TOOLS throw warning if we pass something other than an array to the interviewers prop:
+InterviewerList.propTypes = {
+  interviewers: PropTypes.array.isRequired
+};
 
