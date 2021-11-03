@@ -23,7 +23,7 @@ export default function DayListItem(props) {
 }
 const numberOfSpots = formatSpots();
   return (
-    <li className={dayClass} selected={selected} onClick={() => {setDay(name)}}>
+    <li data-testid="day" className={dayClass} selected={selected} onClick={() => {setDay(name)}}>
       <h2 className="text--regular">{name}</h2> 
       <h3 className="text--light">{numberOfSpots}</h3>
     </li>

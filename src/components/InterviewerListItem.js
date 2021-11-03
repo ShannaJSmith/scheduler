@@ -8,10 +8,6 @@ export default function InterviewerListItem(props) {
     "interviewers__item--selected": selected
   });
 
-  // function showInterviewer () {
-  //   return selected ? name : ""
-  // }
-// const showName = showInterviewer()
   return (
     <li className={interviewerClass} onClick={setInterviewer}>
       <img
