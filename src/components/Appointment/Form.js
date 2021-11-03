@@ -10,6 +10,7 @@ export default function Form (props) {
   const reset = () => {
     setStudent("")
     setInterviewer(null) //could also put ""
+    setError("")
   }
   const cancel = () => {
     if (props.onCancel) {
