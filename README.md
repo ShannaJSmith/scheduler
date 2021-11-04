@@ -8,6 +8,8 @@ Some additional functionalities include not being able to book an appointment wi
 
 With Interview Scheduler both students and interviewers can rest assure appointment booking will be a smooth process!
 
+Desktop View 
+!["Screenshot of Desktop view"](https://github.com/ShannaJSmith/tweeter/blob/master/docs/desktop-tweeter-view.png?raw=true)
 !["Booking Appointments Form:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/BookingAppointmentForm.png?raw=true)
 
 !["Warning Message For Submitting Without A Name:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/SubmitWithoutName.png?raw=true)
