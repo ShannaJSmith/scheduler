@@ -12,7 +12,7 @@ This project makes use of React, JSX, Axios, SASS, PostgreSQL, Node and Express.
 For testing Storybook, Jest and Cypress were used.
 
 Booking Appointments Form:
-!["Booking Appointments Form:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/BookingAppointmentForm.png?raw=true)
+[!"Booking Appointments Form:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/BookingAppointmentForm.png?raw=true)
 
 Warning Message For Submitting Without A Name:
 !["Warning Message For Submitting Without A Name:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/SubmitWithoutName.png?raw=true)
