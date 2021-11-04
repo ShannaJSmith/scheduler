@@ -8,10 +8,10 @@ Some additional functionalities include not being able to book an appointment wi
 
 With Interview Scheduler both students and interviewers can rest assure appointment booking will be a smooth process!
 
-!["Booking Appointments Form:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/BookingAppointmentForm.png?raw=true)
-!["Warning Message For Submitting Without A Name:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/SubmitWithoutName.png?raw=true)
-!["Cancel Confirmation:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/CancelConfirmation.png?raw=true)
-!["Error Messages:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/ErrorMsgs.png?raw=true)
+["Booking Appointments Form:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/BookingAppointmentForm.png?raw=true)
+["Warning Message For Submitting Without A Name:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/SubmitWithoutName.png?raw=true)
+["Cancel Confirmation:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/CancelConfirmation.png?raw=true)
+["Error Messages:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/ErrorMsgs.png?raw=true)
 
 
 ## Setup
