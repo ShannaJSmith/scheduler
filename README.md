@@ -8,7 +8,7 @@ Some additional functionalities include not being able to book an appointment wi
 
 With Interview Scheduler both students and interviewers can rest assure appointment booking will be a smooth process!
 
-This project makes use of React, JSX, Axios, SASS, SQL, Node and Express.
+This project makes use of React, JSX, Axios, SASS, PostgreSQL, Node and Express.
 For testing Storybook, Jest and Cypress were used.
 
 Booking Appointments Form:
