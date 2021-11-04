@@ -8,6 +8,9 @@ Some additional functionalities include not being able to book an appointment wi
 
 With Interview Scheduler both students and interviewers can rest assure appointment booking will be a smooth process!
 
+This project makes use of React, JSX, Axios, SASS, SQL, Node and Express.
+For testing Storybook, Jest and Cypress were used.
+
 Booking Appointments Form:
 !["Booking Appointments Form:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/BookingAppointmentForm.png?raw=true)
 
@@ -21,11 +24,13 @@ Error Messages:
 !["Error Messages:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/ErrorMsgs.png?raw=true)
 
 ## Setup
-
 Install dependencies with `npm install`.
 
-## Running Webpack Development Server
+Run Webpack Development Server with `npm start`.
 
-```sh
-npm start
-```
+Run Jest Test Framework with `npm test`.
+
+Run Storybook Visual Testbed with `npm run storybook`.
+
+Run Cypress Visual Tests with `npm run cypress`.
+
