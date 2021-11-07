@@ -23,6 +23,16 @@ Cancel Confirmation:
 Error Messages:
 !["Error Messages:"](https://github.com/ShannaJSmith/scheduler/blob/master/docs/ErrorMsgs.png?raw=true)
 
+## Project Dependencies:
+
+    "axios": "^0.24.0",
+    "classnames": "^2.2.6",
+    "normalize.css": "^8.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.0.0"
+
 ## Setup
 Install dependencies with `npm install`.
 
