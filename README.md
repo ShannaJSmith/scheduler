@@ -1,6 +1,6 @@
 # Interview Scheduler
 
-Interview Scheduler is an extremely useful app for booking appointments with interviewers! 
+Interview Scheduler is an extremely useful app for booking appointments with interviewers! It combines a concise API with a WebSocket server to build a realtime experience.
 
 For each day of the week prospective interviewees can see how many available spots are left just by looking at the sidebar. Days filled to capacity will render a lower transparency in the sidebar. After selecting a day, users will be greeted with time blocks, from 12pm to 5pm, displaying either a "+" icon to indicate an available spot or an occupied booking which will display the student's name and interviewer. Occupied spots can be edited (to change the name or interviewer) or deleted (to cancel an appointment). But don't worry before a cancellation can take place the app will confirm with the user so no mishaps take place!
 
